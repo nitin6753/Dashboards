@@ -1,4 +1,4 @@
-### Introduction
+### Dataset Overview
 The dataset pertains to sales data from Blinkit, an online grocery delivery service. It includes sales records of various grocery items across multiple outlets.
 * Outlet Information:
 > * Type: Data is categorized based on the type of outlet (e.g., supermarket, grocery store).
