@@ -16,8 +16,8 @@ Generated a visually appealing and interactive dashboard to present the analysis
 > * Detailed Analysis: Perform in-depth analysis at the specialty level and by age profile.
 * Tasks Performed:
 > * Data Preparation:
->   * Gathered and merged data from inpatient and outpatient tables.
->   * Performed data mapping to consolidate and categorize the specialties column into fewer, more manageable groups.
+>     * Gathered and merged data from inpatient and outpatient tables.
+>     * Performed data mapping to consolidate and categorize the specialties column into fewer, more manageable groups.
 > * Data Analysis:
 >   * Calculated key metrics such as the average and median waiting list times.
 >   * Developed functionalities allowing users to switch between viewing average and median waiting times.
