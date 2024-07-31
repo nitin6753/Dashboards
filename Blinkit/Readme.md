@@ -19,18 +19,16 @@ Generated a visually appealing and interactive dashboard to present the analysis
 > * Sales Performance Analysis: Evaluate overall sales performance, focusing on total revenue, average sales, number of items sold, and customer ratings.
 > * Detailed Segmentation: Analyze sales by various attributes such as outlet type, size, location, and item fat content to uncover key insights.
 > * Customer Insight: Assess customer preferences by examining ratings and their correlation with item sales and outlet characteristics.
-
 * Tasks Performed:
 > * Data Preparation:
->    Conducted data cleaning to ensure consistency and accuracy in the data, including handling missing values and standardizing categories.
->    Calculated key metrics including total sales, average sales, total number of items sold, and average customer rating.
-
+>    * Conducted data cleaning to ensure consistency and accuracy in the data, including handling missing values and standardizing categories.
+>    * Calculated key metrics including total sales, average sales, total number of items sold, and average customer rating.
 > * Segmented Analysis:
->    Analyzed sales performance segmented by fat content using a donut chart to understand the impact on total sales.
->    Evaluated sales by item type using a bar chart to identify top-performing product categories.
->    Compared sales by outlet size and type using stacked column and line charts to identify trends based on establishment characteristics.
->    Investigated the relationship between sales and outlet location using a funnel map to assess geographical distribution.
+>    * Analyzed sales performance segmented by fat content using a donut chart to understand the impact on total sales.
+>    * Evaluated sales by item type using a bar chart to identify top-performing product categories.
+>    * Compared sales by outlet size and type using stacked column and line charts to identify trends based on establishment characteristics.
+>    * Investigated the relationship between sales and outlet location using a funnel map to assess geographical distribution.
 > * Visualization Enhancements:
->    Designed a visually appealing dashboard that highlights key insights through interactive charts and filters.
->    Implemented custom visuals such as donut charts, bar charts, stacked column charts, and funnel maps to effectively communicate findings.
->    Added dynamic slicers to allow users to filter the data by outlet type, item category, location, and year of establishment, providing a tailored view of the data.
+>    * Designed a visually appealing dashboard that highlights key insights through interactive charts and filters.
+>    * Implemented custom visuals such as donut charts, bar charts, stacked column charts, and funnel maps to effectively communicate findings.
+>    * Added dynamic slicers to allow users to filter the data by outlet type, item category, location, and year of establishment, providing a tailored view of the data.
